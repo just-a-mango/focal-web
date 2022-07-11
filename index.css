@@ -227,7 +227,7 @@ white-space:nowrap;
 user-select:none;
 -webkit-user-select:none;
 touch-action:manipulation;
-/* display: none; Remove on public release */
+display: none;
 }
 
 .get-started:hover {
